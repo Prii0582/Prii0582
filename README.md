@@ -1,36 +1,34 @@
-# Hi, I'm Priya Dutta 👋
+# Hi, I'm Priya Dutta
 
-**MIS & Data Analyst** · Kolkata, India · Open to relocate (Pune · Hyderabad · Bengaluru · Delhi NCR · Gurgaon)
+I am an MIS and Data Analyst based in Kolkata. I have about 5 years of experience in manufacturing SaaS and e-commerce operations. Most of my work is collecting data from different systems, checking it, and turning it into reports that managers use every day. I was twice awarded Performance of the Year at Flipkart.
 
-I turn scattered data from many systems into **accurate, on-time MIS reports and dashboards** that management can act on, and I automate the repetitive parts so reporting stops eating whole days.
+Right now I am also working on customer adoption tracking and value realization, which means tracking how customers actually use the product and what they get out of it.
 
-**5 years** across manufacturing SaaS and e-commerce operations. Twice awarded **Performance of the Year** at Flipkart.
+I am open to relocating to Pune, Hyderabad, Bengaluru, Delhi NCR or Gurgaon.
 
----
+## What I work on
 
-### What I do
+- Daily, weekly and monthly MIS reports and KPI dashboards for management and customers
+- Data checks and reconciliation across systems, with a log of mismatches followed up till closure
+- Automating manual Excel reports. This cut manual effort by 60-80% and helped me deliver reports on time for 10+ customers
+- Working with operations, finance, product and tech teams to agree on KPIs and fix data gaps
 
-- 📊 **MIS reporting & dashboards**: daily, weekly, monthly and ad-hoc reports and KPI dashboards for senior management and enterprise customers
-- 🔍 **Data accuracy & reconciliation**: cross-checking data across systems, validation checks, discrepancy logs tracked to closure
-- ⚙️ **Automation**: replaced manual Excel compilation with scheduled reports, cutting manual effort **60–80%** and hitting **100% on-time report delivery** for 10+ customers
-- 🤝 **Coordination**: working with operations, finance, product and engineering teams to define KPIs and fix data gaps
+## Projects
 
-### Featured projects
+- [Data Reconciliation and Monthly MIS](https://github.com/Prii0582/data-reconciliation-mis) - matches data across 4 systems, logs mismatches by department and builds a monthly MIS dashboard
+- [Daily MIS Report Automation](https://github.com/Prii0582/daily-mis-report-automation) - builds a daily management report from production data, with data checks
+- [Weekly Compliance Report](https://github.com/Prii0582/weekly-compliance-report) - weekly violation report for 7 checks, with a log to track closure
+- [Customer Health and Churn Analysis](https://github.com/Prii0582/customer-health-churn-analysis) - finds customers at risk of leaving and lists the reason and next step
+- [Google Sheets Project Tracker](https://github.com/Prii0582/google-sheets-project-tracker) - project, deliverable and payment tracker in Google Sheets with Apps Script
 
-| Project | What it shows |
-|---|---|
-| [Data Reconciliation & Monthly MIS](https://github.com/Prii0582/data-reconciliation-mis) | Matching data across 4 systems, a discrepancy log with department owners, and a monthly MIS dashboard |
-| [Daily MIS Report Automation](https://github.com/Prii0582/daily-mis-report-automation) | A daily management report built automatically, with built-in data checks |
-| [Weekly Compliance Report](https://github.com/Prii0582/weekly-compliance-report) | Threshold-based violation tracking across 7 categories, plus a closure log |
-| [Customer Health & Churn Analysis](https://github.com/Prii0582/customer-health-churn-analysis) | Early warning of at-risk customers with clear reasons and actions |
-| [Google Sheets Project Tracker](https://github.com/Prii0582/google-sheets-project-tracker) | Project, deliverable and payment tracking built with Google Apps Script |
+All these projects use dummy data. They are based on work I have done in my jobs, but I can't share the real data, so I rebuilt them with made-up data.
 
-> All projects use **synthetic sample data**. They're based on work I've done professionally, rebuilt so they can be shared publicly without exposing any client information.
+## Tools
 
-### Tools
+Excel, Google Sheets, Google Apps Script, SQL (PostgreSQL), MongoDB, Python (pandas), Jira, Amplitude
 
-`Advanced Excel` · `Google Sheets` · `Google Apps Script` · `SQL (PostgreSQL)` · `MongoDB` · `Python (pandas)` · `Automated PDF reporting` · `Jira` · `Amplitude` · `AI tools for analysis`
+## Contact
 
-### Contact
+Email: priya2000dutta@gmail.com
 
-📧 priya2000dutta@gmail.com · 💼 [LinkedIn](https://linkedin.com/in/priya-dutta-6a88b3257)
+LinkedIn: https://www.linkedin.com/in/priya-dutta-6a88b3257/
